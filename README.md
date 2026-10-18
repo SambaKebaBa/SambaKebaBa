@@ -117,7 +117,7 @@ Je conçois des rapports Power BI de bout en bout : j'interroge et je valide les
 
 <div align="center">
 
-**[Portfolio](https://sambakebaba.github.io/Portfolio/)** · **[LinkedIn](https://www.linkedin.com/in/sambak%C3%A9baba/)** · **[bpanopi@gmail.com](mailto:bpanopi@gmail.com)**
+**[Portfolio](https://sambakebaba.github.io/Portfolio/)** · **[LinkedIn](https://www.linkedin.com/in/sambak%C3%A9baba/)** · **[Mail](mailto:bpanopi@gmail.com)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:60E4FC,100:0279BE&height=100&section=footer" width="100%" alt=""/>
 
