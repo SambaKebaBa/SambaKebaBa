@@ -15,7 +15,7 @@
 
 ---
 
-## 👋 Qui suis-je
+## 👋 Qui suis-je?
 
 ```yaml
 nom:         Samba Kéba Ba
