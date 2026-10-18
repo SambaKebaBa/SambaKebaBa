@@ -8,6 +8,7 @@
 
 <a href="https://sambakebaba.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-mes%20rapports-0279BE?style=for-the-badge&logo=powerbi&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/sambak%C3%A9baba/"><img src="https://img.shields.io/badge/LinkedIn-Samba%20K%C3%A9ba%20Ba-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:bpanopi@gmail.com"><img src="https://img.shields.io/badge/Courriel-bpanopi%40gmail.com-0279BE?style=for-the-badge&logo=gmail&logoColor=white" alt="Courriel"/></a>
 <img src="https://img.shields.io/badge/Qu%C3%A9bec-QC-0B1F3A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Québec"/>
 
 </div>
@@ -55,6 +56,7 @@ Je conçois des rapports Power BI de bout en bout : j'interroge et je valide les
 
 ## ⭐ Rapports en vedette
 
+<!-- rapports:debut -->
 <table>
 <tr>
 <td width="50%" align="center">
@@ -63,24 +65,25 @@ Je conçois des rapports Power BI de bout en bout : j'interroge et je valide les
 <br/><sub>5 pages, du chiffre du jour au détail par produit, client et canal</sub>
 </td>
 <td width="50%" align="center">
-<a href="https://sambakebaba.github.io/Portfolio/work/suivi-projets/"><img src="https://sambakebaba.github.io/Portfolio/projects/suivi-projets/cover.png" alt="Suivi des Projets - Pilotage & budget"/></a>
-<br/><b>Suivi des Projets - Pilotage & budget</b>
+<a href="https://sambakebaba.github.io/Portfolio/work/suivi-projets/"><img src="https://sambakebaba.github.io/Portfolio/projects/suivi-projets/cover.png" alt="Suivi des Projets - Pilotage &amp; budget"/></a>
+<br/><b>Suivi des Projets - Pilotage &amp; budget</b>
 <br/><sub>Formulaire, Planner, export quotidien, puis Power BI</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-<a href="https://sambakebaba.github.io/Portfolio/work/uber-flotte/"><img src="https://sambakebaba.github.io/Portfolio/projects/uber-flotte/cover.png" alt="Uber - Trajets, revenus & flotte"/></a>
-<br/><b>Uber - Trajets, revenus & flotte</b>
+<a href="https://sambakebaba.github.io/Portfolio/work/uber-flotte/"><img src="https://sambakebaba.github.io/Portfolio/projects/uber-flotte/cover.png" alt="Uber - Trajets, revenus &amp; flotte"/></a>
+<br/><b>Uber - Trajets, revenus &amp; flotte</b>
 <br/><sub>5 pages : réservations, revenus, véhicules, clients, lieux</sub>
 </td>
 <td width="50%" align="center">
-<a href="https://sambakebaba.github.io/Portfolio/work/salaires-budget-rh/"><img src="https://sambakebaba.github.io/Portfolio/projects/salaires-budget-rh/cover.png" alt="Salaires & Budget RH - Coûts"/></a>
-<br/><b>Salaires & Budget RH - Coûts</b>
+<a href="https://sambakebaba.github.io/Portfolio/work/salaires-budget-rh/"><img src="https://sambakebaba.github.io/Portfolio/projects/salaires-budget-rh/cover.png" alt="Salaires &amp; Budget RH - Coûts"/></a>
+<br/><b>Salaires &amp; Budget RH - Coûts</b>
 <br/><sub>Masse salariale et heures comparées au budget</sub>
 </td>
 </tr>
 </table>
+<!-- rapports:fin -->
 
 <div align="center">
 <a href="https://sambakebaba.github.io/Portfolio/work/"><img src="https://img.shields.io/badge/Voir%20tous%20les%20rapports-0279BE?style=for-the-badge&logo=powerbi&logoColor=white" alt="Voir tous les rapports"/></a>
@@ -114,7 +117,7 @@ Je conçois des rapports Power BI de bout en bout : j'interroge et je valide les
 
 <div align="center">
 
-**[Portfolio](https://sambakebaba.github.io/Portfolio/)** · **[LinkedIn](https://www.linkedin.com/in/sambak%C3%A9baba/)**
+**[Portfolio](https://sambakebaba.github.io/Portfolio/)** · **[LinkedIn](https://www.linkedin.com/in/sambak%C3%A9baba/)** · **[bpanopi@gmail.com](mailto:bpanopi@gmail.com)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:60E4FC,100:0279BE&height=100&section=footer" width="100%" alt=""/>
 
