@@ -1,9 +1,5 @@
 [
   {
-    "slug": "salaires-budget-rh",
-    "sous_titre": "Masse salariale et heures comparées au budget"
-  },
-  {
     "slug": "uber-flotte",
     "sous_titre": "5 pages : réservations, revenus, véhicules, clients, lieux"
   },
@@ -22,5 +18,9 @@
   {
     "slug": "premier-league-2025-26-saison",
     "sous_titre": "5 pages, du classement final au détail de chaque match, club et joueur"
+  },
+  {
+    "slug": "douzieme-homme-jouer-a-domicile",
+    "sous_titre": "Une page : 30 ans d'avantage du terrain, avant, pendant et après le huis clos"
   }
 ]

@@ -65,33 +65,33 @@ Je conçois des rapports Power BI de bout en bout : j'interroge et je valide les
 <br/><sub>5 pages, du classement final au détail de chaque match, club et joueur</sub>
 </td>
 <td width="50%" align="center">
+<a href="https://sambakebaba.github.io/Portfolio/work/douzieme-homme-jouer-a-domicile/"><img src="https://sambakebaba.github.io/Portfolio/projects/douzieme-homme-jouer-a-domicile/cover.png" alt="Le douzième homme : jouer à domicile vaut-il encore quelque chose ?"/></a>
+<br/><b>Le douzième homme : jouer à domicile vaut-il encore quelque chose ?</b>
+<br/><sub>Une page : 30 ans d'avantage du terrain, avant, pendant et après le huis clos</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
 <a href="https://sambakebaba.github.io/Portfolio/work/astravale-sante-serveurs-sql/"><img src="https://sambakebaba.github.io/Portfolio/projects/astravale-sante-serveurs-sql/cover.png" alt="AstraVale : santé des serveurs SQL"/></a>
 <br/><b>AstraVale : santé des serveurs SQL</b>
 <br/><sub>5 pages, de l'état des systèmes aux actions à mener en premier</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center">
 <a href="https://sambakebaba.github.io/Portfolio/work/boutique-football-ventes-clients/"><img src="https://sambakebaba.github.io/Portfolio/projects/boutique-football-ventes-clients/cover.png" alt="Boutique de football en ligne : ventes et clients"/></a>
 <br/><b>Boutique de football en ligne : ventes et clients</b>
 <br/><sub>5 pages, du chiffre du jour au détail par produit, client et canal</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center">
 <a href="https://sambakebaba.github.io/Portfolio/work/suivi-projets/"><img src="https://sambakebaba.github.io/Portfolio/projects/suivi-projets/cover.png" alt="Suivi des Projets - Pilotage &amp; budget"/></a>
 <br/><b>Suivi des Projets - Pilotage &amp; budget</b>
 <br/><sub>Formulaire, Planner, export quotidien, puis Power BI</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center">
 <a href="https://sambakebaba.github.io/Portfolio/work/uber-flotte/"><img src="https://sambakebaba.github.io/Portfolio/projects/uber-flotte/cover.png" alt="Uber - Trajets, revenus &amp; flotte"/></a>
 <br/><b>Uber - Trajets, revenus &amp; flotte</b>
 <br/><sub>5 pages : réservations, revenus, véhicules, clients, lieux</sub>
-</td>
-<td width="50%" align="center">
-<a href="https://sambakebaba.github.io/Portfolio/work/salaires-budget-rh/"><img src="https://sambakebaba.github.io/Portfolio/projects/salaires-budget-rh/cover.png" alt="Salaires &amp; Budget RH - Coûts"/></a>
-<br/><b>Salaires &amp; Budget RH - Coûts</b>
-<br/><sub>Masse salariale et heures comparées au budget</sub>
 </td>
 </tr>
 </table>
