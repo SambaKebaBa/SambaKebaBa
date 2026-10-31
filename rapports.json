@@ -1,9 +1,5 @@
 [
   {
-    "slug": "uber-flotte",
-    "sous_titre": "5 pages : réservations, revenus, véhicules, clients, lieux"
-  },
-  {
     "slug": "suivi-projets",
     "sous_titre": "Formulaire, Planner, export quotidien, puis Power BI"
   },
@@ -22,5 +18,9 @@
   {
     "slug": "douzieme-homme-jouer-a-domicile",
     "sous_titre": "Une page : 30 ans d'avantage du terrain, avant, pendant et après le huis clos"
+  },
+  {
+    "slug": "monster-under-the-bed-moved",
+    "sous_titre": "Une page : ce qui faisait peur à 105 personnes, enfants puis adultes"
   }
 ]
