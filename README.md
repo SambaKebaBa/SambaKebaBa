@@ -59,36 +59,36 @@ Je conçois des rapports Power BI de bout en bout : j'interroge et je valide les
 <!-- rapports:debut -->
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 <a href="https://sambakebaba.github.io/Portfolio/work/premier-league-2025-26-saison/"><img src="https://sambakebaba.github.io/Portfolio/projects/premier-league-2025-26-saison/cover.png" alt="Premier League 2025/26 : la saison en détail"/></a>
 <br/><b>Premier League 2025/26 : la saison en détail</b>
 <br/><sub>5 pages, du classement final au détail de chaque match, club et joueur</sub>
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 <a href="https://sambakebaba.github.io/Portfolio/work/monster-under-the-bed-moved/"><img src="https://sambakebaba.github.io/Portfolio/projects/monster-under-the-bed-moved/cover.png" alt="The Monster Under the Bed Didn't Leave. It Moved."/></a>
 <br/><b>The Monster Under the Bed Didn't Leave. It Moved.</b>
 <br/><sub>Une page : ce qui faisait peur à 105 personnes, enfants puis adultes</sub>
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 <a href="https://sambakebaba.github.io/Portfolio/work/douzieme-homme-jouer-a-domicile/"><img src="https://sambakebaba.github.io/Portfolio/projects/douzieme-homme-jouer-a-domicile/cover.png" alt="Le douzième homme : jouer à domicile vaut-il encore quelque chose ?"/></a>
 <br/><b>Le douzième homme : jouer à domicile vaut-il encore quelque chose ?</b>
 <br/><sub>Une page : 30 ans d'avantage du terrain, avant, pendant et après le huis clos</sub>
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 <a href="https://sambakebaba.github.io/Portfolio/work/astravale-sante-serveurs-sql/"><img src="https://sambakebaba.github.io/Portfolio/projects/astravale-sante-serveurs-sql/cover.png" alt="AstraVale : santé des serveurs SQL"/></a>
 <br/><b>AstraVale : santé des serveurs SQL</b>
 <br/><sub>5 pages, de l'état des systèmes aux actions à mener en premier</sub>
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 <a href="https://sambakebaba.github.io/Portfolio/work/boutique-football-ventes-clients/"><img src="https://sambakebaba.github.io/Portfolio/projects/boutique-football-ventes-clients/cover.png" alt="Boutique de football en ligne : ventes et clients"/></a>
 <br/><b>Boutique de football en ligne : ventes et clients</b>
 <br/><sub>5 pages, du chiffre du jour au détail par produit, client et canal</sub>
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 <a href="https://sambakebaba.github.io/Portfolio/work/suivi-projets/"><img src="https://sambakebaba.github.io/Portfolio/projects/suivi-projets/cover.png" alt="Suivi des Projets - Pilotage &amp; budget"/></a>
 <br/><b>Suivi des Projets - Pilotage &amp; budget</b>
 <br/><sub>Formulaire, Planner, export quotidien, puis Power BI</sub>
